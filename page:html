@@ -6,12 +6,12 @@
     </head>
     <body>
 
-        <h1>My Pets</h1>
+        <h1> La page </h1>
         
         <ul>
-            <li>Black & white</li>
-            <li>Daemon</li>
-            <li>Angel</li>
+            <li>OPtions</li>
+            <li>Dans</li>
+            <li>Slimeskiinem</li>
         </ul>
         <a href="index.html">retour</a>
     </body>
