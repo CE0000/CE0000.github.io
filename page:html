@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
-        <title>HTML tables</title>
+    <meta charset="utf-8">
+    <title>Pager</title>
     </head>
     <body>
+<h1></h1>
 
-        <h1> La page </h1>
-        
-        <ul>
+<ul>
             <li>OPtions</li>
             <li>Dans</li>
             <li>Slimeskiinem</li>
-        </ul>
-        <a href="index.html">retour</a>
+</ul>
+<a href="index.html">retour</a>
     </body>
 </html>
